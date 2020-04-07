@@ -1,4 +1,4 @@
-# DROP TABLES
+JERICAJANEJOCELYNJEDTEDG# DROP TABLES
 
 songplay_table_drop = "DROP table IF EXISTS customer_transactions"
 user_table_drop = "DROP table IF EXISTS users"
